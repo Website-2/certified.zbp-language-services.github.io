@@ -1,0 +1,29 @@
+<aside class="aside  typeset  aside--{{ include.align | default: 'right' }}">
+
+  {% if page.layout == "post" %}
+    <section class="section  section--related-posts">
+      {% include post-related.html %}
+    </section>
+
+  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+    <section class="section  section--description">
+      <h4>About this site</h4><br>
+      <small>{{ site.description }} provided by Zahra-Claire Bahrani-Peacock</small><br><br>
+      <small>Professional memberships:</small><br>
+      <small>{% include button.html text="Bundesverband der Dolmetscher und Übersetzer" link="https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Zahra-Claire-Bahrani-Peacock" %} {% include button.html text="Asetrad" link="https://asetrad.org/fichasocio?id=3620" %} {% include button.html text="YTI" link="https://www.iti.org.uk/discover/networking/geographical-networks/iti-yorkshire-regional-group.html" %}</small><br>
+      <small>Social media:</small>
+      {% include nav-social.html %} 
+      <small>Contact details:</small><br>
+      <small>&nbsp;</small>{% include icon.html id="email" color="#b14345" title="Email" %}<small><a href="mailto:z-c@live.co.uk">&nbsp;z-c@live.co.uk</a></small><br>
+      <small>&nbsp;</small>📞<small><a href="tel:004917676298153">&nbsp;+49 176 76298153</a></small>
+    </section>
+
+  {% elsif page.layout == "categories" %}
+    <section class="section  section--category-index">
+      <h3>Index</h3>
+      {% include nav-categories.html %}
+    </section>
+
+  {% endif %}
+
+</aside>
