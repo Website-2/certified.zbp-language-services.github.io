@@ -63,11 +63,11 @@ timezone: Europe/Berlin # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Notes # Needed for Siteleaf
+    title: FAQs # Needed for Siteleaf
     output: true
-    description: "Occasional thoughts and ideas" # The post list page content
+    description: "Find answers to your questions - coming soon!" # The post list page content
     feature_text: |
-      Welcome to my list of notes
+      Frequently asked questions
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -127,12 +127,10 @@ navigation_header:
   url: /services/
 - title: About
   url: /about/
-- title: Notes
-  url: /notes/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
+- title: FAQs
+  url: /FAQs/
+  title: Contact
+  url: /Contact/
 
 navigation_footer:
 - title: Legal notice

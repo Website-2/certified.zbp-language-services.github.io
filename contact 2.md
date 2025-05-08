@@ -1,9 +1,12 @@
 ---
-title: "Send me a message"
-excerpt: "Send me a message"
+title: Contact
+excerpt: Contact me
 permalink: /contact/
 indexing: false
 sitemap: false
 ---
+
+Email: 
+Telephone: 
 
 {% include contact-form.html %}
