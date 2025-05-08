@@ -17,6 +17,8 @@ These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br><
 * A **British English native** that's bilingual in German, meaning participant reactions and personality are transferred fluently into your end client's language
 * A service provider that's highly valued by others for **fast communication**, **timely deliveries**, **last-minute transcription and content analysis**, and **quick problem solving skills if IT issues arise**<br><br><br>
 
+{% include figure.html image="/assets/Unsplash-1.jpg" position="center" %}<br><br><br>
+
 ### What I do
 
 I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
