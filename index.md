@@ -3,7 +3,7 @@ title: Welcome
 feature_text: |
   ## ZBP Language Services
   Sworn translations for individuals
-feature_image: "/assets/Unsplash-4.jpg"
+feature_image: "/assets/Unsplash-5.jpg"
 excerpt: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs"
 ---
 <br>
