@@ -1,7 +1,7 @@
 ---
 title: "Send me a message"
 excerpt: "Send me a message"
-permalink: /contact/
+permalink: /contact.html
 indexing: false
 sitemap: false
 ---
