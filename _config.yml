@@ -63,7 +63,7 @@ timezone: Europe/Berlin # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: FAQs # Needed for Siteleaf
+    title: Notes # Needed for Siteleaf
     output: true
     description: "Find answers to your questions - coming soon!" # The post list page content
     feature_text: |
@@ -131,6 +131,8 @@ navigation_header:
   url: /notes/
   title: Contact
   url: /contact/
+  title: Search
+  url: /search/
 
 navigation_footer:
 - title: Legal notice
