@@ -6,7 +6,9 @@ indexing: false
 sitemap: false
 ---
 
-Email: 
-Telephone: 
+Email: <br><br>
+Telephone: <br><br>
+
+Or send me a message
 
 {% include contact-form.html %}
