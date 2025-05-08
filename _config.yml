@@ -129,9 +129,9 @@ navigation_header:
   url: /about/
 - title: Notes
   url: /notes/
-  title: Contact
+- title: Contact
   url: /contact/
-  title: Search
+- title: Search
   url: /search/
 
 navigation_footer:
