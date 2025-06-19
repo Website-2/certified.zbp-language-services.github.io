@@ -8,19 +8,19 @@ excerpt: "Interpreting and transcription from German to English for market resea
 ---
 <br>
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
-Do you need a document translating?
+Do you need a <b>document translating</b>?
 <br><br>
-Do you need an interpreter for a wedding registration appointment or ceremony?
+Do you need an <b>interpreter</b> for a wedding registration appointment or ceremony?
 <br><br>
-Are you looking for an interpreter to go to an appointment at a registration office or other authority in Berlin to help with the German language? 
+Are you looking for an <b>interpreter</b> to go to an appointment at a registration office or other authority in Berlin to help with the German language? 
 <br><br>
-And maybe it's urgent?
+And maybe it's <b>urgent</b>?
 <br><br>
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the person you are looking for.
 <br><br>
 [Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")
 <br><br><br><br>
-As a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich, I can produce certified translations accepted across Germany and by many countries internationally and interpret at appointments requiring a certified interpreter.
+As a translator and interpreter <b>certified in Germany for German and English by the courts of Berlin and Munich</b>, I can produce certified translations accepted across Germany and by many countries internationally and interpret at appointments requiring a certified interpreter.
 <br><br><br>
 {% include figure.html image="/assets/Testimonials_home.png" position="center" %}
 <br>
