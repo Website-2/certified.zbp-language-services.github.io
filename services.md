@@ -2,25 +2,20 @@
 title: Services
 feature_text: |
   How can I help?
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/20250619_154726.jpg"
 excerpt: "How can I help?"
 aside: true
 ---
 
 <br>
-<h5><a id="market_research_interpreting">Market research interpreting</a></h5>
+<h5>Document translation</h5>
 <br>
-Are you looking for a native English interpreter for 1v1s or focus groups that will bring across all the cultural details of what your German-language research participants are saying? Then look no further and send me an email with information about your next project!
+* Languages I can help with: German to English, English to German
+* Examples of document types: personal documents for wedding ceremonies, visa and passport applications, etc., such as birth certificates, certificates of no impediment,  marriage certificates, passports, driver's licences, educational certificates
+
+* Need a certified interpreter? No problem either, I can help with visits to the registry office, bilingual wedding days, notary appointments, and general registration appointments, even if they're last minute
 <br>
-* Interpreting, for product teams that want to experience the thoughts, feelings, reactions and personality of their German-language participants
-* Quality assured through HD headset, high-speed ethernet connection for internet, back-up headset and internet connection for IT emergencies
 <br><br>
-* German to English, English to German
-* Settings: online and offline (simultaneous, consecutive), live and recorded, IDIs and FGs with up to 8 participants
-* Fields of expertise: consumer products (lifestyle, food, household, body care, IT, gaming, social media, third sector, finances), pharmaceuticals, patient journeys
-* Clients: market research studios, agencies, consultants, moderators
-* Research sponsors: include Fortune 500 companies and market leaders
-* Equipment for online interviews: Sennheiser SC 60 USB ML, ethernet internet connection (cable broadband, 1 Gbps), second headset and internet connection in case of an IT emergency
 <br><br>
 
 ><small>"Brilliant job, glad we had Zahra as our interpreter. Really natural interpretation, bringing across the consumers' voices clearly for our research."<br>
