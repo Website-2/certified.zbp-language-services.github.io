@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 
 feature_text: |
   ## ZBP Language Services
   Certified translation and interpreting in Berlin and Brandenburg
@@ -7,43 +7,22 @@ feature_image: "/assets/Unsplash-1.jpg"
 excerpt: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs"
 ---
 <br>
-
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
-ZBP Language Services provides translation and transcription in the languages English and German to studios, moderators, consultants, agencies and LSPs working in qualitative market research.<br><br>
-These services are provided to you by Zahra-Claire Bahrani-Peacock.<br><br><br><br>
-**Make your consumer or medical research project a success with:**
-* **Lively interpreting** that makes interviews pleasant to listen to, whether it's 1v1s or focus groups with up to 8 participants
-* **Cultural insight**, so that everyone can fully understand the cultural differences and better interpret interview series and research results
-* A **British English native** that's bilingual in German, meaning participant reactions and personality are transferred fluently into your end client's language
-* A service provider that's highly valued by others for **fast communication**, **timely deliveries**, **last-minute transcription and content analysis**, and **quick problem solving skills if IT issues arise**<br><br><br>
-
+<br>
+Do you need a document translating?<br><br>
+Do you need a certified interpreter for your wedding registration appointment or ceremony?<br><br>
+Are you looking for an interpreter to accompany you to an appointment at a registration office or other authority in Berlin to help with the German? 
+<br><br>
+[Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")<br><br><br>
+<br><br>
+* Languages I can help with: German to English, English to German
+* How I can help with translation: personal documents for wedding ceremonies, visa and passport applications, etc., even if it's urgent
+* How I can help with interpreting: whether you need someone for your visit to the registry office for your wedding, you're organising an entirely bilingual wedding day, or you need someone for a general appointment at a registration office, just let me know and I can help with the interpreting and organisation
+<br><br><br>
+* I'm a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich
+* I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
+<br><br><br>
+><small>"Ich hätte überhaupt keine Bedenken, mich sofort wieder an Frau Bahrani-Peacock zu wenden. Ich war sehr zufrieden, vor allem damit, dass Frau Bahrani-Peacock immer sehr schnell geantwortet hat und auch wirklich gut erklärt hat, welche Möglichkeiten es in meiner Situation gab."<br>
+– J., Certified translation client</small>
+<br><br><br>
 {% include figure.html image="/assets/Unsplash-1.jpg" position="center" %}<br><br><br>
-
-### What I do
-
-I communicate the thoughts, emotions, reactions and cultural nuances behind the words spoken during a market research interview fluently, efficiently and in a lively tone, helping product teams to gain clarity on the direction their product development or campaign should take.<br><br>
-{% include button.html text="Find out more about me" link="/about/" color="#b14345" %}<br><br>
-
-### How I help
-
-{% include button.html text="Market research interpreting" link="/services/#market_research_interpreting" color="#b14345" %} {% include button.html text="Market research transcription" link="/services/#market_research_transcription" color="#b14345" %}<br><br>
-
-### Who I help
-
-I work with market research studios, moderators, consultants and agencies as well as LSPs and form part of projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries.<br><br>
-{% include button.html text="Take a look at my portfolio" link="about/portfolio/" color="#b14345" %}<br><br>
-
-### What others say
-
-><small>"Zahra is an excellent interpreter. Our client even commented she is her ‘favourite interpreter’!"<br>
-– A., Market research project manager at LSP</small>
-
-><small>"It's lovely to have you with us again, as I always receive such positive feedback about your interpreting! I'm often told that your lively interpretation makes watching market research interviews much more interesting and the project results much more tangible."<br>
-– J., Market research moderator</small>
-
-><small>"Since 2020, Zahra has worked for us on numerous market research projects. She has exceptional skills as a simultaneous and consecutive interpreter for interviews and focus groups. We truly appreciate the quality of her work, professional manner, cooperation and fast communication."<br>
-– P., Market research consultant</small>
-
-### Send me a message
-
-{% include contact-form.html %}
