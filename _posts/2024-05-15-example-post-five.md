@@ -1,7 +1,5 @@
 ---
-title: Example post 5
-categories:
-- Professional development
+title: What is a sworn translation?
 excerpt: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo.
 feature_text: |

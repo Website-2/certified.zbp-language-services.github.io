@@ -1,8 +1,5 @@
 ---
-title: Example post 4
-categories:
-- Fees
-- FAQs
+title: How much does a sworn translation cost?
 excerpt: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo.
 feature_text: |
