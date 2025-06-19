@@ -37,3 +37,5 @@ Are you a market research project manager, moderator, consultant, agency or LSP 
 * 2009-2020: Childcare provider, self-employed
 * 2018-2019: Translator, proofreader, QA and translation project manager, internship at BigBabbling Services
 * 2015-2018: State-examined translator and interpreter
+<br>
+<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing, [certified translation and interpreting](/services/certified-translation-interpreting/ "certified translation and interpreting")</small>

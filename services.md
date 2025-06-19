@@ -9,20 +9,19 @@ aside: true
 
 <br>
 <h5>Document translation</h5>
+<br>
 * Languages I can help with: German to English, English to German
 * Examples of document types: personal documents for wedding ceremonies, visa and passport applications, etc., such as birth certificates, certificates of no impediment,  marriage certificates, passports, driver's licences, educational certificates
 <br>
 * Need a certified interpreter? No problem either, I can help with visits to the registry office, bilingual wedding days, notary appointments, and general registration appointments, even if they're last minute
+<br><br><br>
+<h5>Interpreting at appointments</h5>
 <br>
-<br><br>
-<br><br>
-
-><br>
-<h5>Interpreting at appointments</a></h5>
 * Languages I can help with: German to English, English to German
 * Examples of appointment types: registration appointments, registry office appointments, notary appointments
-<br><br>
+<br><br><br>
 
+<h5>Client voices</h5>
 ><small>"Vielen Dank für die Unterstützung, war super, wie immer. Alles perfekt!"<br>
 – W., Market research agency owner and moderator</small>
 
@@ -38,5 +37,4 @@ aside: true
 ><small>"Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen."<br>
 – J., Yoga teacher</small>
 
-<br><br>
-<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing, [certified translation and interpreting](/services/certified-translation-interpreting/ "certified translation and interpreting")</small>
+<br>
