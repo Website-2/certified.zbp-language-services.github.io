@@ -19,8 +19,8 @@ And maybe it's <b>urgent</b>?
 Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the person you are looking for.
 <br><br>
 [Reach out now and ask for a quote!](/contact/ "Reach out now and ask for a quote!")
-<br><br><br><br>
+<br><br>* * *<br><br>
 As a translator and interpreter <b>certified in Germany for German and English by the courts of Berlin and Munich</b>, I can produce certified translations accepted across Germany and by many countries internationally and interpret at appointments requiring a certified interpreter.
-<br><br><br>
+<br><br>* * *<br>
 {% include figure.html image="/assets/Testimonials_home.png" position="center" %}
 <br>
