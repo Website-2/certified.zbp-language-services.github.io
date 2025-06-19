@@ -1,12 +1,12 @@
 ---
-title: How much does a sworn translation cost?
+title: How much does a certified translation cost?
 excerpt: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo.
 feature_text: |
-  ## Certified translations
-  The modern pot still is a descendant of the alembic, an earlier distillation device
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
+  ## How much does a certified translation cost?
+  XXX
+feature_image: "/assets/20250619_154726.jpg"
+image: "/assets/20250619_154726.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo. Phasellus rhoncus, erat quis iaculis tempus, neque lacus scelerisque velit, vitae tristique lectus metus non eros. Fusce porttitor pulvinar ligula vitae aliquet.

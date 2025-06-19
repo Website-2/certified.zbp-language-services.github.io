@@ -2,6 +2,7 @@
 title: Example post 2
 feature_text: |
   The History of the Alembic tool
+feature_image: "/assets/20250619_154726.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo. Phasellus rhoncus, erat quis iaculis tempus, neque lacus scelerisque velit, vitae tristique lectus metus non eros. Fusce porttitor pulvinar ligula vitae aliquet.
