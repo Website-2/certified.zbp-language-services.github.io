@@ -19,21 +19,5 @@ aside: true
 * Examples of appointment types: registration appointments, registry office appointments, bilingual wedding days, notary appointments
 <br><br><br>
 
-<h5>Client voices</h5>
-<br>
-><small>"Vielen Dank für die Unterstützung, war super, wie immer. Alles perfekt!"<br>
-– W., Market research agency owner and moderator</small>
-
-><small>"Vielen Dank für die tolle Flexibilität, Professionalität, Qualität und insgesamt hervorragende Arbeit."<br>
-– D., Editor</small>
-
-><small>"Editors who reviewed Zahra’s translations are unanimous in their high praise for her work. The assistant senior editor in charge of testing considers Zahra a genuinely strong and gifted translator with an exceptional grasp of writing and language."<br>
-– K., Publisher and founder</small>
-
-><small>"Sie arbeitete schnell, gründlich, präzise und zuverlässig. Die Besprechungen waren durch ihre freundliche Art sehr angenehm. Ingesamt hohe Qualität zu einem angemessen Preis."<br>
-– S., Art therapist</small>
-
-><small>"Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen."<br>
-– J., Yoga teacher</small>
-
+{% include figure.html image="/assets/Testimonials_services.png" position="center" %}
 <br>
