@@ -127,10 +127,8 @@ navigation_header:
   url: /services/
 - title: About
   url: /about/
-- title: Notes
+- title: FAQs
   url: /notes/
-- title: Search
-  url: /search/
 - title: Contact
   url: /contact/
 

@@ -1,9 +1,9 @@
 ---
 title: Services
 feature_text: |
-  How can I help?
+  How can ZBP Language Services help?
 feature_image: "/assets/20250619_154726.jpg"
-excerpt: "How can I help?"
+excerpt: "How can ZBP Language Services help?"
 aside: true
 ---
 
