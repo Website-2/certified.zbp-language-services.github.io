@@ -24,10 +24,7 @@ In the 7 years that I have now been working in the language industry, I've provi
 Are you a market research project manager, moderator, consultant, agency or LSP working on international projects and looking for insightful research results?
 <br>Send me a message and let me know what you need!<br><br>
 {% include button.html text="Send me a message" link="/contact/" color="#b14345" %}
-<br>
-
-
-<br>
+<br><br>
 <h5>Education, accreditations and experience</h5>
 <br>
 * 2024-present: Committee member, BDÜ Berlin-Brandenburg regional chapter
@@ -38,4 +35,7 @@ Are you a market research project manager, moderator, consultant, agency or LSP 
 * 2018-2019: Translator, proofreader, QA and translation project manager, internship at BigBabbling Services
 * 2015-2018: State-examined translator and interpreter
 <br>
-<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing, [certified translation and interpreting](/services/certified-translation-interpreting/ "certified translation and interpreting")</small>
+* I'm a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich
+* I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
+<br><br><br>
+<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing,  <a href="https://www.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">market research interpreting and transcription</a></small>

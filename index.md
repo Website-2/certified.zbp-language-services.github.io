@@ -22,9 +22,5 @@ Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the person you are
 <br><br><br>
 As a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich, I can produce certified translations accepted across Germany and by many countries internationally and interpret at appointments requiring a certified interpreter.
 <br><br><br>
-* I'm a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich
-* I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
-<br><br><br>
-
 {% include figure.html image="/assets/Testimonials_home.png" position="center" %}
 <br>
