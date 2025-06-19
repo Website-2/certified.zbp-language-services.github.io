@@ -12,16 +12,15 @@ aside: true
 <br>
 * Languages I can help with: German to English, English to German
 * Examples of document types: personal documents for wedding ceremonies, visa and passport applications, etc., such as birth certificates, certificates of no impediment,  marriage certificates, passports, driver's licences, educational certificates
-<br>
-* Need a certified interpreter? No problem either, I can help with visits to the registry office, bilingual wedding days, notary appointments, and general registration appointments, even if they're last minute
 <br><br><br>
 <h5>Interpreting at appointments</h5>
 <br>
 * Languages I can help with: German to English, English to German
-* Examples of appointment types: registration appointments, registry office appointments, notary appointments
+* Examples of appointment types: registration appointments, registry office appointments, bilingual wedding days, notary appointments
 <br><br><br>
 
 <h5>Client voices</h5>
+<br>
 ><small>"Vielen Dank für die Unterstützung, war super, wie immer. Alles perfekt!"<br>
 – W., Market research agency owner and moderator</small>
 
