@@ -65,7 +65,7 @@ collections:
   posts:
     title: FAQs # Needed for Siteleaf
     output: true
-    description: "Find answers to your questions - coming soon!" # The post list page content
+    description: "Do you have a question that isn't listed below? <br> Then [send me a message now](/contact/) and I'll answer as soon as possible." # The post list page content
     feature_text: |
       Frequently asked questions - coming soon!
     feature_image: "/assets/20250619_154726.jpg"
