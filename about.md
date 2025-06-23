@@ -39,4 +39,4 @@ Are you a market research project manager, moderator, consultant, agency or LSP 
 * I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
 <br><br><br>
 <small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing,  <a href="https://www.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">market research interpreting and transcription</a></small>
-<br>
+<br><br>
