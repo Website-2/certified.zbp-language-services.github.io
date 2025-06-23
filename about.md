@@ -10,7 +10,8 @@ aside: true
 <br>
 {% include figure.html image="/assets/Profile.png" position="right" width="200" height="200" %}
 * State-examined and court accredited translator and interpreter
-* 8 years of experience in translation and interpreting
+* Accredited for German and English by the courts of Berlin and Munich
+* Featured on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
 <br><br><br>
 A culture and nature-focused traveller, I grew up bilingual in the UK and spent long periods in Germany and also Spain. If you're wondering whether my childhood resulted in a big interest in languages and culture, you're right. Off of the back of that interest, I have spent the last 10 years deepening my understanding of the cultural differences between the UK, Germany and Spain, meaning the language services I provide fully consider the cultural nuances that exist.
 <br><br>
@@ -24,9 +25,6 @@ Are you looking for a translator or interpreter to help with document translatio
 <h5>Education, accreditations and experience</h5>
 <br>
 {% include figure.html image="/assets/CV timeline.png" position="center" %}
-<br>
-* I'm a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich
-* I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
 <br><br><br>
-<small>Other language services provided: proofreading and quality assurance, marketing translation, academic translation and editing,  <a href="https://www.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">market research interpreting and transcription</a></small>
+<small>Other language services provided by ZBP Language Services: proofreading and quality assurance, marketing translation, academic translation and editing,  <a href="https://www.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">market research interpreting and transcription</a></small>
 <br><br><br>
