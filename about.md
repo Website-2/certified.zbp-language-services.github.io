@@ -25,6 +25,6 @@ Are you looking for a translator or interpreter to help with document translatio
 <br>
 {% include figure.html image="/assets/CV timeline.png" position="center" %}
 <br><br>
-<small>Other language services provided by ZBP Language Services:<br>
+<small><h6>Other language services provided by ZBP Language Services:</h6><br>
 proofreading and quality assurance, marketing translation, academic translation and editing,  <a href="https://www.zbp-language-services.com/" target="_blank" title="market research interpreting and transcription">market research interpreting and transcription</a></small>
 <br><br><br>
