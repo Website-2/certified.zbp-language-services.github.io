@@ -3,7 +3,7 @@ title: What is a court accredited interpreter?
 excerpt: |
   Answer coming soon!
 feature_text: |
-  FAQs
+  Frequently Asked Questions
 feature_image: "/assets/20250619_154726.jpg"
 ---
 
