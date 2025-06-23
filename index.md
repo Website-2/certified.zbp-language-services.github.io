@@ -22,7 +22,7 @@ Then Zahra-Claire Bahrani-Peacock at ZBP Language Services is the person you are
 <br><br><br>
 <center>* * *</center>
 <br><br>
-As a translator and interpreter <b>certified in Germany for German and English by the courts of Berlin and Munich</b>, I can produce certified translations accepted across Germany and by many countries internationally and interpret at appointments requiring a certified interpreter.
+<small>As a translator and interpreter <b>certified in Germany for German and English by the courts of Berlin and Munich</b>, I can produce certified translations accepted across Germany and by many countries internationally and interpret at appointments requiring a certified interpreter.</small>
 <br><br><br>
 <center>* * *</center>
 <br>
