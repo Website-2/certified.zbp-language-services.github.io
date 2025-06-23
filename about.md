@@ -19,17 +19,11 @@ Following 10 years of success as a service provider in a different industry, I f
 In the 8 years that I have now been working in the language industry, I've provided support on projects sponsored by Fortune 500 companies and other market leaders in the consumer and medical industries. According to feedback, my language services help product teams to quickly and efficiently gain the insights they need to develop their product or campaign.
 <br><br>
 Are you looking for a translator or interpreter to help with document translation or an administrative appointment?
-<br>[Then send me a message and let me know what you need!](/contact/)<br><br>
+<br><br>[Then send me a message and let me know what you need!](/contact/)<br><br>
 <br><br>
 <h5>Education, accreditations and experience</h5>
 <br>
-* 2024-present: Committee member, BDÜ Berlin-Brandenburg regional chapter
-* 2017-present: Translator, proofreader, QA, transcriber, interpreter, self-employed at ZBP Language Services
-* 2023: Court accreditation in Berlin, Germany
-* 2020: Court accreditation in Munich, Germany
-* 2009-2020: Childcare provider, self-employed
-* 2018-2019: Translator, proofreader, QA and translation project manager, internship at BigBabbling Services
-* 2015-2018: State-examined translator and interpreter
+{% include figure.html image="/assets/CV timeline.png" position="center" %}
 <br>
 * I'm a translator and interpreter certified in Germany for German and English by the courts of Berlin and Munich
 * I feature on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
