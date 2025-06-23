@@ -3,7 +3,7 @@ title: About
 feature_text: |
   Who am I?
 feature_image: "/assets/20250619_154726.jpg"
-excerpt: "Who am I?"
+excerpt: "Who is behind ZBP Language Services?"
 aside: true
 ---
 
