@@ -1,7 +1,9 @@
 ---
-title: Example post 2
+title: What is a court accredited interpreter?
+excerpt: |
+  Answer coming soon!
 feature_text: |
-  The History of the Alembic tool
+  FAQs
 feature_image: "/assets/20250619_154726.jpg"
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: What is a certified translation?
 excerpt: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et malesuada justo.
+  Answer coming soon!
 feature_text: |
-  ## What is a certified translation?
-  XXX
+  FAQs
 feature_image: "/assets/20250619_154726.jpg"
 image: "/assets/20250619_154726.jpg"
 ---
