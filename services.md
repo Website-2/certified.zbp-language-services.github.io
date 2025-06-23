@@ -17,7 +17,7 @@ aside: true
 <br>
 * Languages I can help with: German to English, English to German
 * Examples of appointment types: registration appointments, registry office appointments, bilingual wedding days, notary appointments
-<br><br><br>
+<br><br><br><br>
 
 {% include figure.html image="/assets/Testimonials_services.png" position="center" %}
 <br>
