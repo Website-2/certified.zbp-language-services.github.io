@@ -29,4 +29,5 @@ In the 8 years that I have now been working in the language industry, I've provi
 <br><br><br>
 ><small>Are you looking for a translator or interpreter to help with document translation or an administrative appointment?</small>
 <br><br>
-><small>[Then send me a message and let me know what you need!](/contact/)</small><br><br><br>
+><small>[Then send me a message and let me know what you need!](/contact/)</small>
+<br><br><br>
