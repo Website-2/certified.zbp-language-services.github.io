@@ -20,8 +20,9 @@ aside: true
 <br><br><br><br>
 
 {% include figure.html image="/assets/Testimonials_services.png" position="center" %}
-<br><br>
+<br><br><br>
 <center>* * *</center>
-><small>Are you looking for a translator or interpreter to help with a document translation or administrative appointment?<br>[➺ Then send me a message and let me know what you need!](/contact/)</small>
+<br>
+><small>Are you looking for a translator or interpreter to help with a document translation or administrative appointment?<br>[➺ Then send a message now and tell me what you need!](/contact/)</small>
 
 <br>
