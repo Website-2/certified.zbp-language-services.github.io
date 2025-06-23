@@ -28,6 +28,6 @@ In the 8 years that I have now been working in the language industry, I've provi
 <small><a href="https://www.zbp-language-services.com/" target="_blank" title="Market research interpreting and transcription">Market research interpreting and transcription</a>; marketing translation; academic translation and editing; proofreading and quality assurance</small>
 <br><br><br>
 ><small>Are you looking for a translator or interpreter to help with document translation or an administrative appointment?</small>
-<br><br>
-><small>[Then send me a message and let me know what you need!](/contact/)</small>
+<br>[➺Then send me a message and let me know what you need!](/contact/)</small>
+
 <br><br><br>
