@@ -21,7 +21,7 @@ In the 8 years that I have now been working in the language industry, I've provi
 <br><br><br>
 Are you looking for a translator or interpreter to help with document translation or an administrative appointment?
 <br><br>[Then send me a message and let me know what you need!](/contact/)<br><br><br>
-<h5>Education, accreditations and experience</h5>
+<h6>Education, accreditations and experience</h6>
 <br>
 {% include figure.html image="/assets/CV timeline.png" position="center" %}
 <br><br>
