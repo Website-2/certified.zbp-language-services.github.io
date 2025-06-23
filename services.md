@@ -22,7 +22,6 @@ aside: true
 {% include figure.html image="/assets/Testimonials_services.png" position="center" %}
 <br><br><br>
 <center>* * *</center>
-<br>
 ><small>Are you looking for a translator or interpreter to help with a document translation or administrative appointment?<br>[➺ Then send a message now and tell me what you need!](/contact/)</small>
 
 <br>
