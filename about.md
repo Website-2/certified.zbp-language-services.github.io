@@ -12,11 +12,13 @@ aside: true
 * State-examined, court accredited translator and interpreter
 * Accredited for German and English by the courts of Berlin and Munich
 * Featured on the lists of translators and interpreters held by [Germany's judicial administration](https://www.justiz-dolmetscher.de/Recherche/de/Suchen) and the [British Embassy](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Germany)
-<br><br><br><br>
+<br><br><br>
 <h6>Education, accreditations and experience</h6>
 <br>
 {% include figure.html image="/assets/CV timeline.png" position="center" %}
 <br><br>
+<h6>Profile</h6>
+<br>
 A culture and nature-focused traveller, I, Zahra, grew up bilingual in the UK and spent long periods in Germany and also Spain. If you're wondering whether my childhood resulted in a big interest in languages and culture, you're right. Off of the back of that interest, I have spent the last 10 years deepening my understanding of the cultural differences between the UK, Germany and Spain, meaning the language services I provide fully consider the cultural nuances that exist.
 <br><br>
 Following 10 years of success as a service provider in a different industry, I founded ZBP Language Services in 2017, so that I could apply the knowledge, skills and qualifications I had gained during that time to international projects and align my work with my interests.
