@@ -19,7 +19,8 @@ aside: true
 * Examples of appointment types: registration appointments, registry office appointments, bilingual wedding days, notary appointments
 <br><br><br><br>
 
-{% include figure.html image="/assets/Testimonials_services.png" position="center" %}
+{% include figure.html image="/assets/Testimonials_services 1.png" position="center" %}
+{% include figure.html image="/assets/Testimonials_services 2.png" position="center" %}
 <br><br><br>
 <center>* * *</center>
 ><small>Are you looking for a translator or interpreter to help with a document translation or administrative appointment?<br>[➺ Then send a message now and tell me what you need!](/contact/)</small>
