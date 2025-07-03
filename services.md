@@ -16,7 +16,7 @@ aside: true
 <h5>Interpreting at appointments</h5>
 <br>
 * Languages I can help with: German to English, English to German
-* Examples of appointment types: registration appointments, registry office appointments, bilingual wedding days, notary appointments
+* Examples of appointment types: residency registration, notary, youth welfare office, registry office, bilingual wedding ceremony
 <br><br><br><br>
 
 {% include figure.html image="/assets/Testimonials_services 1.png" position="center" %}
