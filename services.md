@@ -2,7 +2,7 @@
 title: Services
 feature_text: |
   How can ZBP Language Services help?
-feature_image: "/assets/20250704_095743.jpg"
+feature_image: "/assets/20250704_101854.jpg"
 excerpt: "How can ZBP Language Services help?"
 aside: true
 ---
