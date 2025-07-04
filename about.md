@@ -2,7 +2,7 @@
 title: About
 feature_text: |
   Who is behind ZBP Language Services?
-feature_image: "/assets/20250619_154726.jpg"
+feature_image: "/assets/20250704_095743.jpg"
 excerpt: "Who is behind ZBP Language Services?"
 aside: true
 ---
