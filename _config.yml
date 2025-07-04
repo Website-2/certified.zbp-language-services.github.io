@@ -68,7 +68,7 @@ collections:
     description: "Do you have a question that isn't listed below? <br> Then [send me a message now](/contact/) and I'll answer as soon as possible." # The post list page content
     feature_text: |
       Frequently Asked Questions
-    feature_image: "/assets/20250619_154726.jpg"
+    feature_image: "/assets/20250704_101854.jpg"
 
 # 6. Jekyll collections settings
 defaults:
