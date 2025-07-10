@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## ZBP Language Services
-  Certified translation and interpreting in Berlin and Brandenburg
+  Certified translation and interpreting for documents and appointments
 feature_image: "/assets/20250704_101854.jpg"
 excerpt: "Interpreting and transcription from German to English for market research studios, moderators, consultants, agencies and LSPs"
 ---
